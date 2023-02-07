@@ -14,11 +14,12 @@ string FirstName, LastName;
 int main() {
 cout << "what is your name and last name?";
 cin >> FirstName >> LastName;
-cout << "Hi, " << FirstName << " "<< LastName << endl;
+cout << "Welcome, " << FirstName << " "<< LastName << endl;
 
 }
 
 /*********************************************
 // Output:
-
+what is your name and last name?Faraz Firouzi
+Welcome, Faraz Firouzi
 **********************************************/
